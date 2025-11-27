@@ -22,9 +22,12 @@ class SplashScreen:
         #      2 - PRODUTOS:         {str(self.get_documents_count('produtos')).ljust(5)}                        #
         #      3 - VENDAS:           {str(self.get_documents_count('vendas')).ljust(5)}                        #
         #                                                         #
-        #  CRIADO POR:  SEU NOME AQUI                             #
-        #               NOME DO COLEGA 1                          #
-        #               NOME DO COLEGA 2                          #
+        #  CRIADO POR:  GABRIELY AZEVEDO                          #
+        #               GUILHERME DOS SANTOS                      #
+        #               LUIZ HENRIQUE                             #
+        #                RICARDO DA SILVA                         #
+        #                RODRIGO ARAUJO                           #
+        #                                                         #
         #                                                         #
         #  DISCIPLINA: BANCO DE DADOS                             #
         #  PROFESSOR: HOWARD ROATTI                               #
